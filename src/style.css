@@ -9,6 +9,8 @@ body {
 main {
     display: grid;
     grid-template-columns: 50% 50%;
+    background: rgb(0,24,36);
+    background: linear-gradient(90deg, rgba(0,24,36,1) 1%, rgba(9,9,121,1) 17%, rgba(0,212,255,1) 100%);
 }
 
 
